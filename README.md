@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheRedLegend27
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C++
+- 👀 I’m a Bussiness Managmenet Student
+- 🌱 I’m currently learning APIs
 
 <!---
 TheRedLegend27/TheRedLegend27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
